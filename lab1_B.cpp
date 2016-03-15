@@ -6,7 +6,6 @@ int main(){
 	int n;
 
 	cin >> n;
-	cout << endl;
 	cout << n << " ";
 	while(n != 1){ 
 		if(n % 2 == 1){
