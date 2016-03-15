@@ -1,0 +1,16 @@
+Script started on 2016年03月15日 (週二) 21時26分20秒
+]0;F74046187@2015cpp: ~/lab1F74046187@2015cpp:~/lab1$ whoami;pwd
+F74046187
+/home/F74046187/lab1
+]0;F74046187@2015cpp: ~/lab1F74046187@2015cpp:~/lab1$ git config -l
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+remote.origin.url=https://github.com/fishfishteng/lab1.git
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+]0;F74046187@2015cpp: ~/lab1F74046187@2015cpp:~/lab1$ exit
+
+Script done on 2016年03月15日 (週二) 21時27分36秒
